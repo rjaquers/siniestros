@@ -1,0 +1,323 @@
+[10-Feb-2023 11:34:58 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 27
+[10-Feb-2023 11:34:59 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:27
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 27
+[10-Feb-2023 11:38:25 America/Santiago] PHP Notice:  Undefined variable: pdf in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 22
+[10-Feb-2023 11:38:25 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function write2DBarcode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:22
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 22
+[10-Feb-2023 11:40:20 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 21
+[10-Feb-2023 11:40:20 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:21
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 21
+[10-Feb-2023 11:42:59 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:42:59 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:43:26 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:43:26 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:03 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:03 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:20 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:20 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:22 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:22 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:35 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:35 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:38 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:44:38 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:45:01 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 11:45:01 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:12:31 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:12:31 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:27 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:27 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:40 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:40 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:43 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:43 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:57 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:13:57 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:14:33 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:14:33 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:15:58 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:15:58 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:16:56 America/Santiago] PHP Notice:  Undefined variable: qr in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:16:56 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function encode() on null in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php:24
+Stack trace:
+#0 {main}
+  thrown in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 24
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_MODE_NUL already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 31
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_MODE_NUM already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 32
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_MODE_AN already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 33
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_MODE_8 already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 34
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_MODE_KANJI already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 35
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_MODE_STRUCTURE already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 36
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_L already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 40
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_M already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 41
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_Q already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 42
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_H already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 43
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_FORMAT_TEXT already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 47
+[10-Feb-2023 12:33:42 America/Santiago] PHP Notice:  Constant QR_FORMAT_PNG already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 48
+[10-Feb-2023 12:33:42 America/Santiago] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 50
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_MODE_NUL already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 31
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_MODE_NUM already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 32
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_MODE_AN already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 33
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_MODE_8 already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 34
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_MODE_KANJI already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 35
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_MODE_STRUCTURE already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 36
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_L already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 40
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_M already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 41
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_Q already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 42
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_H already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 43
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_FORMAT_TEXT already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 47
+[10-Feb-2023 12:34:17 America/Santiago] PHP Notice:  Constant QR_FORMAT_PNG already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 48
+[10-Feb-2023 12:34:17 America/Santiago] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 50
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_MODE_NUL already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 31
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_MODE_NUM already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 32
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_MODE_AN already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 33
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_MODE_8 already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 34
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_MODE_KANJI already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 35
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_MODE_STRUCTURE already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 36
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_L already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 40
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_M already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 41
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_Q already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 42
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_H already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 43
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_FORMAT_TEXT already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 47
+[10-Feb-2023 12:34:26 America/Santiago] PHP Notice:  Constant QR_FORMAT_PNG already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 48
+[10-Feb-2023 12:34:26 America/Santiago] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 50
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_MODE_NUL already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 31
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_MODE_NUM already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 32
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_MODE_AN already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 33
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_MODE_8 already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 34
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_MODE_KANJI already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 35
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_MODE_STRUCTURE already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 36
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_L already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 40
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_M already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 41
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_Q already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 42
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_H already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 43
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_FORMAT_TEXT already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 47
+[10-Feb-2023 12:34:35 America/Santiago] PHP Notice:  Constant QR_FORMAT_PNG already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 48
+[10-Feb-2023 12:34:35 America/Santiago] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 50
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_MODE_NUL already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 31
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_MODE_NUM already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 32
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_MODE_AN already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 33
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_MODE_8 already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 34
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_MODE_KANJI already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 35
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_MODE_STRUCTURE already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 36
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_L already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 40
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_M already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 41
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_Q already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 42
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_ECLEVEL_H already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 43
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_FORMAT_TEXT already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 47
+[10-Feb-2023 12:34:36 America/Santiago] PHP Notice:  Constant QR_FORMAT_PNG already defined in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 48
+[10-Feb-2023 12:34:36 America/Santiago] PHP Fatal error:  Cannot declare class qrstr, because the name is already in use in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/qrconst.php on line 50
+[10-Feb-2023 12:43:12 America/Santiago] PHP Notice:  Undefined variable: patente in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente.php on line 6
+[10-Feb-2023 12:43:13 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:43:57 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:44:39 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:45:42 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:45:51 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:47:04 America/Santiago] PHP Parse error:  syntax error, unexpected end of file in /home7/chy81757/public_html/siniestros/librerias/phpqrcode/patente_imprimir.php on line 84
+[10-Feb-2023 12:47:15 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:49:17 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:49:43 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:49:45 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:50:00 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:50:42 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:51:34 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:34 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 39
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 44
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 49
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: perfil_autorizado in /home7/chy81757/public_html/siniestros/inc_session.php on line 75
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 78
+[10-Feb-2023 12:52:35 America/Santiago] PHP Notice:  Undefined variable: destino_x_perfil in /home7/chy81757/public_html/siniestros/inc_session.php on line 84
+[10-Feb-2023 12:53:56 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:54:18 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:54:25 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:57:42 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:57:56 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:58:08 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:58:14 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:58:16 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:58:18 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:58:20 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:58:23 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:59:35 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 12:59:39 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Feb-2023 13:04:57 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[02-Mar-2023 12:33:09 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[02-Mar-2023 12:35:13 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[02-Mar-2023 14:08:19 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[02-Mar-2023 14:13:23 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[10-Mar-2023 16:42:28 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[14-Mar-2023 16:37:45 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[14-Mar-2023 16:38:56 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[14-Mar-2023 16:42:26 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home7/chy81757/public_html/siniestros/inc_headers_meta.php on line 45
+[04-Jul-2023 17:39:49 America/Santiago] PHP Notice:  Undefined variable: tiempo in /home/chy81757/public_html/siniestros/inc_headers_meta.php on line 45

@@ -1,0 +1,136 @@
+[25-Jul-2022 21:24:34 America/Santiago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'rodrigo'@'localhost' (using password: YES) in /home7/chy81757/public_html/siniestros/c_connections/conec6.php on line 58
+[25-Jul-2022 21:24:34 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rodrigo'@'localhost' (using password: YES) in /home7/chy81757/public_html/siniestros/c_connections/conec6.php on line 59
+[25-Jul-2022 21:53:22 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 45
+[25-Jul-2022 21:55:34 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 45
+[25-Jul-2022 21:55:42 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 45
+[28-Jul-2022 11:12:42 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rodrigo'@'localhost' (using password: YES) in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 14
+[28-Jul-2022 11:12:42 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 15
+[28-Jul-2022 11:12:42 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:12:42 America/Santiago] PHP Warning:  C_MYSQL_RKM::buscar(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:13:20 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[28-Jul-2022 11:13:20 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 44
+[28-Jul-2022 11:13:24 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[28-Jul-2022 11:13:24 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 44
+[28-Jul-2022 11:14:49 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rodrigo'@'localhost' (using password: YES) in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 14
+[28-Jul-2022 11:14:49 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 15
+[28-Jul-2022 11:14:49 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:14:49 America/Santiago] PHP Warning:  C_MYSQL_RKM::buscar(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:14:51 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[28-Jul-2022 11:14:51 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 44
+[28-Jul-2022 11:14:57 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rodrigo'@'localhost' (using password: YES) in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 14
+[28-Jul-2022 11:14:57 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 15
+[28-Jul-2022 11:14:57 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:14:57 America/Santiago] PHP Warning:  C_MYSQL_RKM::buscar(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:53:47 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rodrigo'@'localhost' (using password: YES) in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 14
+[28-Jul-2022 11:53:47 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 15
+[28-Jul-2022 11:53:47 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:53:47 America/Santiago] PHP Warning:  C_MYSQL_RKM::buscar(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:53:51 America/Santiago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'rodrigo'@'localhost' (using password: YES) in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 14
+[28-Jul-2022 11:53:51 America/Santiago] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 15
+[28-Jul-2022 11:53:51 America/Santiago] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:53:51 America/Santiago] PHP Warning:  C_MYSQL_RKM::buscar(): Couldn't fetch mysqli in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 33
+[28-Jul-2022 11:55:01 America/Santiago] PHP Fatal error:  Uncaught Error: Call to undefined function fn_nombre_perfil() in /home7/chy81757/public_html/siniestros/t_usuarios_listar.php:53
+Stack trace:
+#0 /home7/chy81757/public_html/siniestros/home_admin.php(77): include()
+#1 {main}
+  thrown in /home7/chy81757/public_html/siniestros/t_usuarios_listar.php on line 53
+[28-Jul-2022 12:54:58 America/Santiago] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function C_MYSQL_RKM::buscar(), 2 passed in /home7/chy81757/public_html/siniestros/t_usuarios_listar.php on line 28 and exactly 5 expected in /home7/chy81757/public_html/siniestros/c_connections/conec7.php:39
+Stack trace:
+#0 /home7/chy81757/public_html/siniestros/t_usuarios_listar.php(28): C_MYSQL_RKM->buscar('`tbl_usuarios`', '`activo` = 1')
+#1 /home7/chy81757/public_html/siniestros/home_admin.php(77): include('/home7/chy81757...')
+#2 {main}
+  thrown in /home7/chy81757/public_html/siniestros/c_connections/conec7.php on line 39
+[02-Mar-2023 12:58:33 America/Santiago] PHP Notice:  Trying to access array offset on value of type null in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php on line 9
+[02-Mar-2023 12:58:33 America/Santiago] PHP Notice:  Undefined variable: zip in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php on line 37
+[02-Mar-2023 12:58:33 America/Santiago] PHP Notice:  Trying to get property 'numFiles' of non-object in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php on line 37
+[02-Mar-2023 12:58:33 America/Santiago] PHP Notice:  Undefined variable: zip in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php on line 38
+[02-Mar-2023 12:58:33 America/Santiago] PHP Notice:  Trying to get property 'status' of non-object in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php on line 38
+[02-Mar-2023 12:58:33 America/Santiago] PHP Notice:  Undefined variable: zip in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php on line 39
+[02-Mar-2023 12:58:33 America/Santiago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php:39
+Stack trace:
+#0 /home7/chy81757/public_html/siniestros/home_admin.php(76): include()
+#1 {main}
+  thrown in /home7/chy81757/public_html/siniestros/t_fotos_zipo.php on line 39
+[03-Mar-2023 16:31:19 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 34
+[03-Mar-2023 16:31:19 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[03-Mar-2023 16:31:19 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 43
+[03-Mar-2023 16:31:19 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 61
+[03-Mar-2023 16:31:19 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 64
+[14-Mar-2023 16:37:13 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 34
+[14-Mar-2023 16:37:13 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[14-Mar-2023 16:37:13 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 43
+[14-Mar-2023 16:37:13 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 61
+[14-Mar-2023 16:37:13 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 64
+[14-Mar-2023 16:37:22 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 34
+[14-Mar-2023 16:37:22 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[14-Mar-2023 16:37:22 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 43
+[14-Mar-2023 16:37:22 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 61
+[14-Mar-2023 16:37:22 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 64
+[14-Mar-2023 16:37:30 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 34
+[14-Mar-2023 16:37:30 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[14-Mar-2023 16:37:30 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 43
+[14-Mar-2023 16:37:30 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 61
+[14-Mar-2023 16:37:30 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 64
+[14-Mar-2023 16:38:40 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 34
+[14-Mar-2023 16:38:40 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[14-Mar-2023 16:38:40 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 43
+[14-Mar-2023 16:38:40 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 61
+[14-Mar-2023 16:38:40 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 64
+[14-Mar-2023 16:47:17 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 34
+[14-Mar-2023 16:47:17 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 35
+[14-Mar-2023 16:47:17 America/Santiago] PHP Notice:  Undefined index: seccion in /home7/chy81757/public_html/siniestros/home_admin.php on line 43
+[14-Mar-2023 16:47:17 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 61
+[14-Mar-2023 16:47:17 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home7/chy81757/public_html/siniestros/home_admin.php on line 64
+[16-Mar-2023 18:14:55 America/Santiago] PHP Warning:  include(t_estado_crear.php): failed to open stream: No existe el fichero o el directorio in /home7/chy81757/public_html/siniestros/home_admin.php on line 76
+[16-Mar-2023 18:14:55 America/Santiago] PHP Warning:  include(t_estado_crear.php): failed to open stream: No existe el fichero o el directorio in /home7/chy81757/public_html/siniestros/home_admin.php on line 76
+[16-Mar-2023 18:14:55 America/Santiago] PHP Warning:  include(): Failed opening 't_estado_crear.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home7/chy81757/public_html/siniestros/home_admin.php on line 76
+[04-Jul-2023 17:25:45 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:25:45 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:25:45 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:25:45 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:25:45 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:26:41 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:26:41 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:26:41 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:26:41 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:26:41 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:26:45 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:26:45 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:26:45 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:26:45 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:26:45 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:27:08 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:27:08 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:27:08 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:27:08 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:27:08 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:27:13 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:27:13 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:27:13 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:27:13 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:27:13 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:27:26 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:27:26 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:27:26 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:27:26 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:27:26 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:27:31 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:27:31 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:27:31 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:27:31 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:27:31 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:27:50 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:27:50 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:27:50 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:27:50 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:27:50 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:28:16 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:28:16 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:28:16 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:28:16 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:28:16 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64
+[04-Jul-2023 17:28:52 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 34
+[04-Jul-2023 17:28:52 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 35
+[04-Jul-2023 17:28:52 America/Santiago] PHP Notice:  Undefined index: seccion in /home/chy81757/public_html/siniestros/home_admin.php on line 43
+[04-Jul-2023 17:28:52 America/Santiago] PHP Notice:  Undefined index: titulo_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 61
+[04-Jul-2023 17:28:52 America/Santiago] PHP Notice:  Undefined index: desc_pagina in /home/chy81757/public_html/siniestros/home_admin.php on line 64

@@ -1,0 +1,25 @@
+ // Rodrigo Jaque Escobar
+ Registro de cambios
+
+
+ // 02-03-2023
+ Se agregó sistema de aviso por correo al usuario cuando se crea un usuario.
+ El usuario debe estar creado con una cuenta de correo.
+
+
+
+ //28 de agosto de 2023, se creó la estructura de listar por siniestros
+
+  home_admin.php
+   template=t_siniestros_listar
+   &accion=Listar
+   &titulo_pagina=Administración>Estado
+   &seccion=Administración
+   &desc_pagina=Panel de Estados
+
+
+
+
+
+
+

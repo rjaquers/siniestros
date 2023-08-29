@@ -1,0 +1,22 @@
+ // Rodrigo Jaque Escobar
+ // 22-07-2022
+
+Registros de formularios
+id_formulario = 100 => Login
+id_formulario = 101 => Recuperar clave
+id_formulario = 102 => usuario Editar
+id_formulario = 103 => usuario Borrar
+id_formulario = 104 => Patentes Borrar
+id_formulario = 105 => Patentes Editar
+id_formulario = 106 => Siniestros Crear
+id_formulario = 107 => Siniestros Fotos Subir
+id_formulario = 108 => Siniestros Fotos Eliminar
+id_formulario = 109 => Patente Crear
+id_formulario = 110 => Estados editar
+id_formulario = 111 => Asegurado Editar
+
+
+
+
+
+
